@@ -1,0 +1,24 @@
+{
+    "name": "Your Organization Name",
+    "location": "City, ST",
+    "type": "Organization Type",
+    "clientId": "YOUR_GOOGLE_OAUTH_CLIENT_ID.apps.googleusercontent.com",
+    "rosterSheetId": "YOUR_ROSTER_GOOGLE_SHEET_ID",
+    "rosterTabName": "Roster",
+    "inventory": [
+        {
+            "name": "Tent",
+            "namePlural": "Tents",
+            "icon": "<i class=\"fi fi-ts-tents\"></i>",
+            "sheetId": "YOUR_INVENTORY_GOOGLE_SHEET_ID",
+            "tabName": "Inventory",
+            "location": "Storage Location Description"
+        }
+    ],
+    "informationLinks": [
+        {
+            "name": "Organization Website",
+            "url": "https://example.com"
+        }
+    ]
+}
