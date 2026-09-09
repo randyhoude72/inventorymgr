@@ -35,7 +35,7 @@ const LandingPage = () => {
 
     return (
         <main className="page-content landing-container" style={{ padding: '20px' }}>
-            <h1>{orgInfo.name}</h1>
+            <h1><img src={`${process.env.PUBLIC_URL}/logo192.png`} alt="" style={{ height: '48px', width: '48px' }} />{orgInfo.name}</h1>
             <h2>{orgInfo.type}</h2>
             <p>{orgInfo.location}</p>
 
