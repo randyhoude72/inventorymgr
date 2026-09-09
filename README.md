@@ -46,7 +46,7 @@ Please see [Setting Up Google Firebase](docs/googlefirebase.md)
 
 ## Customize the Application For Your Organization
 
-Refer to [Customization Guide](docs/customizations.md)
+Refer to [Customization Guide](docs/customization.md)
 
 ## Build And Deploy Your Application
 
